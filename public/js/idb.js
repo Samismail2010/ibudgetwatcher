@@ -39,3 +39,15 @@ function saveRecord(record) {
     //add record to your store with add method
     budgetObjectStore.add(record);
 }
+
+function uploadTransaction() {
+    
+    //open a transaction on your
+    const transaction = db.transaction(['new_transaction'], 'readwrite');
+
+    //access your object store
+    const budgetObjectStore = transaction.objectStore('new_transaction');
+
+    //get all records from store and set to a varible
+    const getAll = budgetObjectStore.getAll();
+}
