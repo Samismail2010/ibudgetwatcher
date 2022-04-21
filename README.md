@@ -27,7 +27,8 @@ An application that allows users to track expenses.iBudgetWatcher gives users th
 * PWA
 
 ## Usage
-track expenses
+* track expensesThe budget tracker can be used to track deposits and expenses. The application also has the ability to enter deposits or expenses whill offline. The transactions will be added to the tracker once the application is back online.
+
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is covered by the MIT license.
