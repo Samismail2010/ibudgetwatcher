@@ -33,10 +33,11 @@ track expenses
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) This project is covered by the MIT license.
 
 ## Screenshot
+<img width="1086" alt="iBudgetWatcher" src="https://user-images.githubusercontent.com/88996409/164350333-312d201a-cfb2-485b-9352-dd6420d1f36f.png">
 
 ## Contributions
-sam ismail
-<img width="1086" alt="iBudgetWatcher" src="https://user-images.githubusercontent.com/88996409/164350333-312d201a-cfb2-485b-9352-dd6420d1f36f.png">
+Sam Ismail
+
 
 ## Test
 No test
